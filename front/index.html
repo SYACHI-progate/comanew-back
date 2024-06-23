@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta name="theme-color" content="#000000">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>4コマ漫画スライダー</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="manga-viewer">
+            <div class="manga-slide" data-news-url="https://news-url-1.com">
+                <img　id="news1" src="manga2.png" alt="4コマ漫画1">
+
+            </div>
+            <div class="manga-slide" data-news-url="https://news-url-2.com">
+                <img id="news2" src="mangas.png" alt="4コマ漫画2">
+
+            </div>
+            <div class="manga-slide" data-news-url="https://news-url-3.com">
+                <img id="news3" src="manga2.png" alt="4コマ漫画3">
+
+            </div>
+        </div>
+        <a id="news-link" href="#" class="news-link overlay-button" target="_blank">
+            <i class="fas fa-newspaper"></i>
+        </a>
+        <button class="nav-button prev">&uarr;</button>
+        <button class="nav-button next">&darr;</button>
+    </div>
+    <script src="sctipt.js"></script>
+</body>
+
+</html>

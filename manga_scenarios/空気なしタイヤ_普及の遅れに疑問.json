@@ -1,0 +1,85 @@
+{
+  "title": "空気なしタイヤ、普及の遅れに疑問",
+  "thumbnail_prompt": "革新的な空気なしタイヤが、自動車業界で普及しない理由を2人のキャラクターが議論している様子",
+  "panels": [
+    {
+      "id": 1,
+      "background_prompt": "日常的な居間",
+      "characters": [
+        {
+          "character": "ch1",
+          "emotion": "疑問",
+          "speech_bubble": {
+            "text": "ねえねえ、空気なしのタイヤって知ってる? すごく便利そうだけど、なんで普及しないの?",
+            "shape_type": "talk"
+          }
+        },
+        {
+          "character": "ch2",
+          "emotion": "考え中",
+          "speech_bubble": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "background_prompt": "同上",
+      "characters": [
+        {
+          "character": "ch2",
+          "emotion": "考え中",
+          "speech_bubble": {
+            "text": "そうだね...パンクの心配がなくて便利そうだけど、なんでだろう?",
+            "shape_type": "thought"
+          }
+        },
+        {
+          "character": "ch1",
+          "emotion": "疑問",
+          "speech_bubble": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "background_prompt": "同上",
+      "characters": [
+        {
+          "character": "ch2",
+          "emotion": "説明",
+          "speech_bubble": {
+            "text": "記事によると、コストが高かったり、リサイクルが難しかったりするらしいよ。まだ課題があるみたい。",
+            "shape_type": "talk"
+          }
+        },
+        {
+          "character": "ch1",
+          "emotion": "理解",
+          "speech_bubble": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "background_prompt": "同上",
+      "characters": [
+        {
+          "character": "ch1",
+          "emotion": "期待",
+          "speech_bubble": {
+            "text": "そうなんだ。でも将来的には解決されそうだし、パンクで困ることもなくなりそうだね!",
+            "shape_type": "talk"
+          }
+        },
+        {
+          "character": "ch2",
+          "emotion": "同意",
+          "speech_bubble": {
+            "text": "そうだといいね!革新的な技術が普及するの楽しみだ。",
+            "shape_type": "talk"
+          }
+        }
+      ]
+    }
+  ]
+}

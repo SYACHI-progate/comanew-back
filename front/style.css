@@ -1,0 +1,111 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EAEAEA;
+    position: relative;
+}
+
+.manga-viewer {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.manga-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.5s ease;
+}
+
+.manga-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.overlay-button {
+    position: fixed;
+    background-color: rgba(52, 150, 231, 0.8);
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: background-color 0.3s, transform 0.3s;
+    z-index: 10;
+    border: none;
+    cursor: pointer;
+}
+
+.overlay-button:hover {
+    background-color: rgba(52, 150, 231, 0.8);
+    transform: scale(1.1);
+}
+
+.news-link {
+    bottom: 20px;
+    right: 20px;
+}
+
+#fullscreen-btn {
+    top: 20px;
+    right: 20px;
+}
+
+.nav-button {
+    position: fixed;
+    background: rgba(255, 255, 255, 0.3);
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.prev {
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.next {
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+@media (max-width: 768px) {
+    .overlay-button {
+        width: 70px;
+        height: 70px;
+        font-size: 2em;
+    }
+
+    .nav-button {
+        font-size: 20px;
+        padding: 8px;
+    }
+}

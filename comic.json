@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "background_prompt": "カラオケボックス内の様子",
+        "character1": {
+            "character": "ch1",
+            "emotion": "楽しそう",
+            "speech_bubble": {
+                "text": "よーし、カラオケでペルソナの曲を歌おう!",
+                "shape_type": "talk"
+            }
+        },
+        "character2": {
+            "character": "ch2",
+            "emotion": "期待",
+            "speech_bubble": {
+                "text": "",
+                "shape_type": "thought"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "background_prompt": "カラオケの曲選択画面",
+        "character1": {
+            "character": "ch1",
+            "emotion": "驚き",
+            "speech_bubble": {
+                "text": "わあ、ペルソナの曲がたくさんある!",
+                "shape_type": "talk"
+            }
+        },
+        "character2": {
+            "character": "ch2",
+            "emotion": "喜び",
+            "speech_bubble": {
+                "text": "私も好きな曲を歌いたいな。",
+                "shape_type": "talk"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "background_prompt": "2人がマイクを持って歌っている様子",
+        "character1": {
+            "character": "ch1",
+            "emotion": "はりきり",
+            "speech_bubble": {
+                "text": "よーし、行くぜ!",
+                "shape_type": "talk"
+            }
+        },
+        "character2": {
+            "character": "ch2",
+            "emotion": "緊張",
+            "speech_bubble": {
+                "text": "",
+                "shape_type": "thought"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "background_prompt": "2人が楽しそうに歌っている様子",
+        "character1": {
+            "character": "ch1",
+            "emotion": "笑顔",
+            "speech_bubble": {
+                "text": "カラオケって最高だね!",
+                "shape_type": "talk"
+            }
+        },
+        "character2": {
+            "character": "ch2",
+            "emotion": "満足",
+            "speech_bubble": {
+                "text": "うん、ペルソナの曲を歌えて良かった!",
+                "shape_type": "talk"
+            }
+        }
+    }
+]

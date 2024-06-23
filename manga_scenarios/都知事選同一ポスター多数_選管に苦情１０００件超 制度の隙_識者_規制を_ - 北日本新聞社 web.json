@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "background_prompt": "選挙ポスターの掲示板",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "怒り",
+        "speech_bubble": {
+          "text": "この選挙ポスターの多さは規制されるべきだ。有権者を混乱させるだけだ。",
+          "shape_type": "talk"
+        }
+      },
+      {
+        "character": "ch2",
+        "emotion": "哀しみ",
+        "speech_bubble": {
+          "text": "確かに目的外利用は問題だが、表現の自由も大切にしないといけない。",
+          "shape_type": "talk"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "background_prompt": "街の風景",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "喜び",
+        "speech_bubble": null
+      },
+      {
+        "character": "ch2",
+        "emotion": "楽しみ",
+        "speech_bubble": {
+          "text": "ポスターの規制は難しい問題だね。でも、有権者には公平な情報が届くように気をつけないと。",
+          "shape_type": "thought"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "background_prompt": "議会の風景",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "怒り",
+        "speech_bubble": {
+          "text": "この制度の隙間を利用した行為は、選挙の公正さを損なうものだ。",
+          "shape_type": "talk"
+        }
+      },
+      {
+        "character": "ch2",
+        "emotion": "哀しみ",
+        "speech_bubble": {
+          "text": "でも、寄付した人の表現の自由も尊重しないといけないんだよね。",
+          "shape_type": "talk"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "background_prompt": "公園の風景",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "喜び",
+        "speech_bubble": {
+          "text": "有権者が公正な選挙情報を得られるように、何か対策を講じる必要があるね。",
+          "shape_type": "talk"
+        }
+      },
+      {
+        "character": "ch2",
+        "emotion": "楽しみ",
+        "speech_bubble": {
+          "text": "そうだね。表現の自由と選挙の公正さのバランスを取ることが大切だよ。",
+          "shape_type": "talk"
+        }
+      }
+    ]
+  }
+]

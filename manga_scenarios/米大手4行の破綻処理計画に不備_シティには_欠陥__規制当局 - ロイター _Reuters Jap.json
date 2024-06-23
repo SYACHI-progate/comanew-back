@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "background_prompt": "オフィスの会議室",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "怒り",
+        "speech_bubble": {
+          "text": "またしても大手銀行の破綻処理計画に不備があったそうだ。これではお客様の信頼を裏切ることになる。",
+          "shape_type": "talk"
+        }
+      },
+      {
+        "character": "ch2",
+        "emotion": "哀れみ",
+        "speech_bubble": {
+          "text": "規制当局からの指摘は厳しいものがあったようですね。金融システムの健全性が損なわれかねません。",
+          "shape_type": "talk"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "background_prompt": "オフィスの会議室",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "怒り",
+        "speech_bubble": null
+      },
+      {
+        "character": "ch2",
+        "emotion": "楽",
+        "speech_bubble": {
+          "text": "でも、規制当局からの指摘に真摯に対応すれば、もっと強固な破綻処理計画を策定できるはずです。",
+          "shape_type": "talk"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "background_prompt": "オフィスの会議室",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "哀れみ",
+        "speech_bubble": {
+          "text": "金融機関の健全性は経済の根幹にかかわる重要な課題です。早急な対策が求められますね。",
+          "shape_type": "thought"
+        }
+      },
+      {
+        "character": "ch2",
+        "emotion": "楽",
+        "speech_bubble": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "background_prompt": "オフィスの会議室",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "楽",
+        "speech_bubble": {
+          "text": "頑張れば必ず乗り越えられる問題です。私たちができることから一つずつ着手していきましょう。",
+          "shape_type": "talk"
+        }
+      },
+      {
+        "character": "ch2",
+        "emotion": "楽",
+        "speech_bubble": {
+          "text": "はい、前を向いて頑張りましょう!",
+          "shape_type": "talk"
+        }
+      }
+    ]
+  }
+]

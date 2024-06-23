@@ -1,0 +1,92 @@
+{
+  "title": "中国地方と北陸 梅雨入り いずれも平年と比べ10日以上遅く | NHK - nhk.or.jp",
+  "url": "https://www3.nhk.or.jp/news/html/20240622/k10014489061000.html",
+  "thumbnail_url": "https://www3.nhk.or.jp/news/html/20240622/K10014489061_2406221042_0622104324_01_02.jpg",
+  "panels": [
+    {
+      "id": 1,
+      "background_prompt": "雨の降る風景",
+      "characters": [
+        {
+          "character": "ch1",
+          "emotion": "哀",
+          "speech_bubble": {
+            "text": "中国地方と北陸で梅雨入りが平年より10日以上遅れているんだって。",
+            "shape_type": "talk"
+          }
+        },
+        {
+          "character": "ch2",
+          "emotion": "怒",
+          "speech_bubble": {
+            "text": "そうか、気候変動の影響かもしれないな。",
+            "shape_type": "talk"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "background_prompt": "曇り空",
+      "characters": [
+        {
+          "character": "ch1",
+          "emotion": "哀",
+          "speech_bubble": {
+            "text": "これから1週間は雨や曇りの日が多いみたいだよ。",
+            "shape_type": "talk"
+          }
+        },
+        {
+          "character": "ch2",
+          "emotion": null,
+          "speech_bubble": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "background_prompt": "梅雨の季節",
+      "characters": [
+        {
+          "character": "ch1",
+          "emotion": "楽",
+          "speech_bubble": {
+            "text": "でも梅雨入りが遅れたおかげで、新緑の季節が長く楽しめたね。",
+            "shape_type": "talk"
+          }
+        },
+        {
+          "character": "ch2",
+          "emotion": "怒",
+          "speech_bubble": {
+            "text": "そうだけど、気候変動による異常気象には注意が必要だよ。",
+            "shape_type": "talk"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "background_prompt": "街の風景",
+      "characters": [
+        {
+          "character": "ch1",
+          "emotion": "喜",
+          "speech_bubble": {
+            "text": "そうだね。自然と上手に付き合っていきたいものだ。",
+            "shape_type": "talk"
+          }
+        },
+        {
+          "character": "ch2",
+          "emotion": "喜",
+          "speech_bubble": {
+            "text": "梅雨の季節も良いものがあるさ。",
+            "shape_type": "talk"
+          }
+        }
+      ]
+    }
+  ]
+}

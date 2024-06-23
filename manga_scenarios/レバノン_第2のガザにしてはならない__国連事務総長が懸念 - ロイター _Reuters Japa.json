@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "background_prompt": "国連本部のロビー",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "怒り",
+        "speech_bubble": {
+          "text": "ヒズボラとイスラエルの緊張状態がまた高まっているんだって？",
+          "shape_type": "talk"
+        }
+      },
+      {
+        "character": "ch2",
+        "emotion": "憂慮",
+        "speech_bubble": {
+          "text": "そうなんだ。事務総長はレバノンが第2のガザになることを懸念しているそうだ。",
+          "shape_type": "talk"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "background_prompt": "レバノンの都市風景",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "哀しみ",
+        "speech_bubble": null
+      },
+      {
+        "character": "ch2",
+        "emotion": "憂慮",
+        "speech_bubble": {
+          "text": "平和維持部隊が事態の沈静化に努めているけど、深刻な事態になりそうだね。",
+          "shape_type": "talk"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "background_prompt": "ガザの廃墟",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "怒り",
+        "speech_bubble": {
+          "text": "ガザの惨状を見ても分かるように、紛争は町を破壊し、民間人に苦しみをもたらすんだ。",
+          "shape_type": "thought"
+        }
+      },
+      {
+        "character": "ch2",
+        "emotion": "憂慮",
+        "speech_bubble": {
+          "text": "レバノンがガザのようになっては絶対にいけない。早期の対話と平和的解決が必要不可欠だよ。",
+          "shape_type": "talk"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "background_prompt": "国連安全保障理事会の会議室",
+    "characters": [
+      {
+        "character": "ch1",
+        "emotion": "憂慮",
+        "speech_bubble": {
+          "text": "国連はこの問題に対して、もっと積極的に関与すべきだと思う。",
+          "shape_type": "talk"
+        }
+      },
+      {
+        "character": "ch2",
+        "emotion": "憂慮",
+        "speech_bubble": {
+          "text": "安保理の常任理事国を始め、関係国が建設的な対話を呼びかけることが大切だね。",
+          "shape_type": "talk"
+        }
+      }
+    ]
+  }
+]
